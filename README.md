@@ -1,6 +1,6 @@
 # 108-9na
 
-Para la clase de hoy haremos una web completa en React utilizando todo lo visto hasta ahora:
+Para la clase de hoy y el lunes haremos una web completa en React utilizando todo lo visto hasta ahora:
 - Componentes
 - Props
 - useState
